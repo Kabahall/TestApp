@@ -21,5 +21,17 @@ namespace пр2
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+      
+           
+                if (MessageBox.Show("Вы уверены, что хотите выйти?", "Подтверждение",
+                                    MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                {
+                    Application.Exit();
+                }
+            }
+        
     }
 }

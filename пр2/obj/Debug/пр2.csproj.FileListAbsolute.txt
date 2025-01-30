@@ -1,0 +1,11 @@
+D:\гончарук_горбова\пр2\пр2\obj\Debug\пр2.csproj.AssemblyReference.cache
+D:\гончарук_горбова\пр2\пр2\obj\Debug\пр2.csproj.SuggestedBindingRedirects.cache
+D:\гончарук_горбова\пр2\пр2\obj\Debug\пр2.Form1.resources
+D:\гончарук_горбова\пр2\пр2\obj\Debug\пр2.Properties.Resources.resources
+D:\гончарук_горбова\пр2\пр2\obj\Debug\пр2.csproj.GenerateResource.cache
+D:\гончарук_горбова\пр2\пр2\obj\Debug\пр2.csproj.CoreCompileInputs.cache
+D:\гончарук_горбова\пр2\пр2\bin\Debug\пр2.exe.config
+D:\гончарук_горбова\пр2\пр2\bin\Debug\пр2.exe
+D:\гончарук_горбова\пр2\пр2\bin\Debug\пр2.pdb
+D:\гончарук_горбова\пр2\пр2\obj\Debug\пр2.exe
+D:\гончарук_горбова\пр2\пр2\obj\Debug\пр2.pdb
